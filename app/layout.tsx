@@ -31,6 +31,9 @@ export const metadata: Metadata = {
   },
   description:
     "Febin C S is an embedded systems engineer working across firmware development and PCB design on STM32, ESP32, Arduino and Raspberry Pi.",
+  verification: {
+    google: "35yqPGNUuwUoLgIY-wu1Wisyway1JsdNmr7v2MdqXHU",
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
